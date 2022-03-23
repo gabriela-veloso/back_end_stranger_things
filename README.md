@@ -1,6 +1,9 @@
-# back_end_stranger_things
+# PROJETO STRANGER THINGS
+## back_end_stranger_things
+Uma API de backend utilizando Node.js e Express e um frontend com React.
 
-Projeto desenvolvido enquanto aluna da Trybe do Módulo Back-End.
+:rocket: Projeto desenvolvido por mim enquanto aluna da Trybe do Módulo Back-End.
+#### Palavras chave: #deploy #heroku #docker #backend #frontend #git
 
 # Habilidades necessárias para este projeto
 - Adaptar e configurar o Heroku;
@@ -8,5 +11,15 @@ Projeto desenvolvido enquanto aluna da Trybe do Módulo Back-End.
 - Utilizar variáveis de ambiente dentro do Heroku;
 
 # Requisitos Back-End
+- Configura as variáveis de ambiente
+- Configura o arquivo Dockerfile
+- Configura arquivo keroku.yml
+- Verifica action de Linter para ser executada no GitHub
+- Realiza deploy no heroku
 
 # Requisitos Front-End
+- [  :white_check_mark:]: _[Acesse aqui o repositório Front End](https://github)_
+- Configura as variáveis de ambiente
+- Crie um app do Heroku com o front-end
+- Configure as variáveis de ambiente do app para apontar para as API's publicadas
+- Faça o deploy com o git
