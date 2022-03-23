@@ -18,7 +18,7 @@ Uma API de backend utilizando Node.js e Express e um frontend com React.
 - Realiza deploy no heroku
 
 # Requisitos Front-End
-- [  :white_check_mark:]: _[Acesse aqui o repositório Front End](https://github)_
+- [  :white_check_mark:]: _[Acesse aqui o repositório Front End](https://github.com/gabriela-veloso/front_end_stranger_things)_
 - Configura as variáveis de ambiente
 - Crie um app do Heroku com o front-end
 - Configure as variáveis de ambiente do app para apontar para as API's publicadas
